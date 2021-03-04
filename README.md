@@ -31,6 +31,7 @@ This project was developed with the technologies below:
 
 To start your Phoenix Server:
 
+- Clone this repository with `git clone https://github.com/luizDorval/Rocketpay.git`
 - Install dependencies with `mix deps.get`
 - Create the database and run the migrations with `mix ecto.setup`
 - Start server with `mix phx.server`
