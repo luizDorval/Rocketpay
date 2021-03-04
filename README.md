@@ -18,7 +18,7 @@
 The Rocketpay simulates and payment API, just like Picpay, in it is possible to do deposits, withdraws and transactions.
 </p>
 
-## ✨ Techs
+## ⚙️ Techs
 
 This project was developed with the technologies below:
 
