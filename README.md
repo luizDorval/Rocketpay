@@ -33,9 +33,9 @@ To start your Phoenix Server:
 
 - Clone this repository with `git clone https://github.com/luizDorval/Rocketpay.git`
 - Install dependencies with `mix deps.get`
-- Create the database and run the migrations with `mix ecto.setup`
+- Create the database and run the migrations with `mix ecto.setup` (i recommend using a docker with postgres but you can use without docker too, your choice)
 - Start server with `mix phx.server`
-
+ 
 Now you can access [`localhost:4000`](http://localhost:4000) on your browser.
 
 Use something like Insomnia or Postman to test the routes working.
